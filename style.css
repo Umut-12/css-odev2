@@ -1,5 +1,40 @@
 .logo {
     margin: 280px 500px 0 500px ;
 }
+.src { 
+   
+background-color: rgb(171, 196, 187);
+}
+.src table {
+    margin-left: 450px;
+    width:500px ;
+    border-style: double ;
+   
+}
+.bt1 {
+    
+    margin-left: 450px;
+}  
 
-     
+.src p {
+    margin-left: 600px;
+}
+.boxs  {
+
+  
+}
+
+.box {
+    width: 32%;
+    height: 100px;
+    float: left;
+    
+    background-color: aqua ;
+    margin-right:1%;
+   
+}
+.sn  {
+    
+    margin-left: 600px;
+    padding:100px ;
+}
